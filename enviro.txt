@@ -1,0 +1,5 @@
+conda activate <myenv>
+where you replace <myenv> with your environment name into your batch file. For more information, see the link in the comment above. So your batch file should be something like
+
+conda activate <myenv>
+python <script>
