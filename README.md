@@ -1,5 +1,5 @@
 # capstone-project
-Digital Futures capstone project - a semi-automated pipeline that transforms data from long term dtudy monitoring drug deaths
+Digital Futures capstone project - a semi-automated pipeline that transforms data from long term study monitoring drug deaths
 
 Pipeline for transforming data from long running study monitoring drug deaths over several years. 
 
