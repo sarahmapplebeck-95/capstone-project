@@ -191,10 +191,6 @@ else:
     latest_df.columns=matching_cols
 
 
-
-
-
-#%%
 #concatonate dfs
 new_df = pd.concat(dfs)
 
